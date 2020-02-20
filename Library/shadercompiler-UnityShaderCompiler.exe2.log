@@ -1,0 +1,6 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Fractal.compute(18): implicit truncation of vector type
+  error: 2 plat 4 at Fractal.compute(25): syntax error: unexpected token 'Destination'
+  api=4 insize=598 outsize=0 ok=0
